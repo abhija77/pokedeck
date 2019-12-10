@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f0b8a6c-1fdc-4058-bdaa-98e1d1f89aa4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U1IdApCfpywxSeeiS19tAOH6Ud" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/classes/pokedeck" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target/classes/pokedeck" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Pokedeck-Main">
+    <configuration name="Pokedeck-Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PokedeckMain" />
+      <module name="pokedeck" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pokedeck-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/pokedeck-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.pokedeck-1.0-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f0b8a6c-1fdc-4058-bdaa-98e1d1f89aa4" name="Default Changelist" comment="" />
+      <created>1574517759734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574517759734</updated>
+      <workItem from="1574517762416" duration="5868000" />
+      <workItem from="1575118269663" duration="43000" />
+      <workItem from="1575215711208" duration="2464000" />
+      <workItem from="1575221079820" duration="2339000" />
+      <workItem from="1575376224435" duration="1022000" />
+      <workItem from="1575540536681" duration="159000" />
+      <workItem from="1575540979816" duration="14205000" />
+      <workItem from="1575732052671" duration="5168000" />
+      <workItem from="1575885202935" duration="3309000" />
+      <workItem from="1575984882995" duration="6171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1264" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1575986851136">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1264" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1575986851136" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1576006336799">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1576006336799" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1576006336799">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1576006336799" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1576006336799">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1576006336799" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1576006336799">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1576006336799" />
+    <state width="1807" height="343" key="GridCell.Tab.1.bottom" timestamp="1575732296894">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575732296894" />
+    <state width="1807" height="343" key="GridCell.Tab.1.center" timestamp="1575732296893">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575732296893" />
+    <state width="1807" height="343" key="GridCell.Tab.1.left" timestamp="1575732296893">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575732296893" />
+    <state width="1807" height="343" key="GridCell.Tab.1.right" timestamp="1575732296893">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575732296893" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1575379441768">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575379441768" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1575984885696">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575984885696" />
+    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1575886070503">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1575886070503" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pokedeck$Pokedeck_Main.ic" NAME="Pokedeck-Main Coverage Results" MODIFIED="1575565118691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+PokedeckMain.class
+pokedeck/view/PokemonListView.class
+pokedeck/view/Fenetre.class
+pokedeck/models/Pokemon.class
+pokedeck/controllers/ActionHandlerImpl.class
+pokedeck/view/MainPageManager.class
+pokedeck/view/MyMenu.class
+pokedeck/models/MenuItemModel.class
+pokedeck/models/Type.class
+pokedeck/controllers/PagesController.class

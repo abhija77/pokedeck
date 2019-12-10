@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Pikatchu",
+    "abilities": [
+      "Fatal Foudre",
+      "Vive attaque",
+      "Cage eclair"
+    ],
+    "weakness": [
+      "sol"
+    ],
+    "type": [
+      "Electrique"
+    ]
+  },
+  {
+    "name": "Dracaufeu",
+    "abilities": [
+      "Lance flamme",
+      "Eruption"
+    ],
+    "weakness": [
+      "Eau",
+      "Electrique",
+      "Roche"
+    ]
+  },
+  {
+    "name": "Bulbizarre",
+    "abilities": [
+      "Tranch Herbes",
+      "Fouet Lianes"
+    ],
+    "weakness": [
+      "Feu",
+      "Glace",
+      "Vol",
+      "Psy"
+    ]
+  }
+]
